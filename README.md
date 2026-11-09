@@ -5,6 +5,8 @@ Co-founder & CTO at **Moovo**. Open to remote roles worldwide.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamadabudaya-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadabudaya/)
 [![App Store](https://img.shields.io/badge/App_Store-Moovo-000000?logo=apple&logoColor=white)](https://apps.apple.com/app/moovo/id6754393617)
+[![Google Play](https://img.shields.io/badge/Google_Play-Moovo-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.karmos.moovo)
+[![Case study](https://img.shields.io/badge/Case_study-Moovo-FF660D)](https://github.com/MohamadAbudaya97/moovo-case-study)
 
 ## What I build
 
@@ -15,7 +17,16 @@ Co-founder & CTO at **Moovo**. Open to remote roles worldwide.
 
 ## Highlights
 
-- 🚀 **Moovo** (co-founder & CTO): a delivery marketplace I build end to end — three Flutter apps (customer, driver, store), a NestJS + PostgreSQL API, an admin dashboard, real-time tracking and online payments. [Live on the App Store](https://apps.apple.com/app/moovo/id6754393617).
+- 🚀 **Moovo** (co-founder & CTO): a delivery marketplace I build end to end — three Flutter apps (customer, driver, store), a NestJS + PostgreSQL API, an admin dashboard, real-time tracking and online payments. Live on the [App Store](https://apps.apple.com/app/moovo/id6754393617) and [Google Play](https://play.google.com/store/apps/details?id=com.karmos.moovo) — **[read the case study →](https://github.com/MohamadAbudaya97/moovo-case-study)**
+
+<p>
+  <a href="https://github.com/MohamadAbudaya97/moovo-case-study"><img src="https://raw.githubusercontent.com/MohamadAbudaya97/moovo-case-study/main/images/home.jpg" width="19%" alt="Moovo home" /></a>
+  <a href="https://github.com/MohamadAbudaya97/moovo-case-study"><img src="https://raw.githubusercontent.com/MohamadAbudaya97/moovo-case-study/main/images/offers.jpg" width="19%" alt="Moovo offers" /></a>
+  <a href="https://github.com/MohamadAbudaya97/moovo-case-study"><img src="https://raw.githubusercontent.com/MohamadAbudaya97/moovo-case-study/main/images/restaurant.jpg" width="19%" alt="Moovo restaurant" /></a>
+  <a href="https://github.com/MohamadAbudaya97/moovo-case-study"><img src="https://raw.githubusercontent.com/MohamadAbudaya97/moovo-case-study/main/images/cart.jpg" width="19%" alt="Moovo cart" /></a>
+  <a href="https://github.com/MohamadAbudaya97/moovo-case-study"><img src="https://raw.githubusercontent.com/MohamadAbudaya97/moovo-case-study/main/images/tracking.jpg" width="19%" alt="Moovo live tracking" /></a>
+</p>
+
 - 📱 **SALA Delivery** (2022–2024): led three Flutter apps (customer, driver, store) used by **60K+ people weekly**; raised app performance from **67 to 116 FPS**; set up CI/CD to Google Play and TestFlight.
 - ⭐ **Upwork**: two Flutter projects completed with 5-star client reviews.
 
