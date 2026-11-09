@@ -3,6 +3,7 @@
 **Senior Flutter & full-stack engineer** with 4+ years shipping production iOS and Android apps — and the backends behind them.
 Co-founder & CTO at **Moovo**. Open to remote roles worldwide.
 
+[![Email](https://img.shields.io/badge/Email-mohamad.abudaya.97%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mohamad.abudaya.97@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamadabudaya-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadabudaya/)
 [![App Store](https://img.shields.io/badge/App_Store-Moovo-000000?logo=apple&logoColor=white)](https://apps.apple.com/app/moovo/id6754393617)
 [![Google Play](https://img.shields.io/badge/Google_Play-Moovo-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.karmos.moovo)
