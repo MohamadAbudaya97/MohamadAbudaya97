@@ -8,6 +8,7 @@ Co-founder & CTO at **Moovo**. Open to remote roles worldwide.
 [![App Store](https://img.shields.io/badge/App_Store-Moovo-000000?logo=apple&logoColor=white)](https://apps.apple.com/app/moovo/id6754393617)
 [![Google Play](https://img.shields.io/badge/Google_Play-Moovo-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.karmos.moovo)
 [![Case study](https://img.shields.io/badge/Case_study-Moovo-FF660D)](https://github.com/MohamadAbudaya97/moovo-case-study)
+[![Code](https://img.shields.io/badge/Code-live--order--tracking-181717?logo=github&logoColor=white)](https://github.com/MohamadAbudaya97/live-order-tracking)
 
 ## What I build
 
@@ -28,6 +29,7 @@ Co-founder & CTO at **Moovo**. Open to remote roles worldwide.
   <a href="https://github.com/MohamadAbudaya97/moovo-case-study"><img src="https://raw.githubusercontent.com/MohamadAbudaya97/moovo-case-study/main/images/tracking.jpg" width="19%" alt="Moovo live tracking" /></a>
 </p>
 
+- 🧩 **[live-order-tracking](https://github.com/MohamadAbudaya97/live-order-tracking)**: a small project you can actually read — how I keep the customer, the store and the courier in agreement about one order in real time. NestJS + PostgreSQL + Socket.IO API, Flutter (BLoC) app, and the tests that prove it holds up when connections drop.
 - 📱 **SALA Delivery** (2022–2024): led three Flutter apps (customer, driver, store) used by **60K+ people weekly**; raised app performance from **67 to 116 FPS**; set up CI/CD to Google Play and TestFlight.
 - ⭐ **Upwork**: two Flutter projects completed with 5-star client reviews.
 
@@ -43,6 +45,6 @@ Co-founder & CTO at **Moovo**. Open to remote roles worldwide.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-> Most of my production work lives in private repositories. Happy to walk through architecture and code in an interview.
+> Most of my production work lives in private repositories. [live-order-tracking](https://github.com/MohamadAbudaya97/live-order-tracking) is written from scratch so you can see how I work; happy to walk through the rest in an interview.
 
 📍 Ramallah, Palestine · 🌍 Remote · 💬 English, Arabic
